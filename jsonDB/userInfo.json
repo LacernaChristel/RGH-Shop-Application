@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "email": "admin@gmail.com",
+        "phone": "05646464",
+        "username": "user1",
+        "password": "123456"
+    },
+    {
+        "id": "128382533",
+        "name": "Jerome",
+        "email": "jeromealcala.j@gmail.com",
+        "phone": "09270068624",
+        "username": "user2",
+        "password": "123456"
+    },
+    {
+        "id": "2442477200",
+        "name": "John Doe",
+        "email": "JohnDoe.j@gmail.com",
+        "phone": "09270068622",
+        "username": "user3",
+        "password": "123456"
+    },
+    {
+        "id": "2289230852",
+        "name": "Jerome",
+        "email": "jeromealcala.j@gmail.com",
+        "phone": "09270068624",
+        "username": "user4",
+        "password": "123456"
+    },
+    {
+        "id": "1965781470",
+        "name": "Jerome",
+        "email": "jeromealcala.j@gmail.com",
+        "phone": "09270068624",
+        "username": "user5",
+        "password": "123456"
+    },
+    {
+        "id": "556492205",
+        "name": "Jerome",
+        "email": "jeromealcala.j@gmail.com",
+        "phone": "09270068624",
+        "username": "user6",
+        "password": "123456"
+    },
+    {
+        "id": "2742266049",
+        "name": "Christel Lacerna",
+        "email": "lacernachristel@gmail.com",
+        "phone": "09556436805",
+        "username": "Telang01",
+        "password": "123456789"
+    },
+    {
+        "id": "3001936358",
+        "name": "JESSA GANDA",
+        "email": "jessa@gmail.com",
+        "phone": "09636905975",
+        "username": "jessa",
+        "password": "123456789"
+    },
+    {
+        "id": "481580557",
+        "name": "Jessa May",
+        "email": "jessamay@gmail.com",
+        "phone": "09867546352",
+        "username": "jezz",
+        "password": "0987654321"
+    },
+    {
+        "id": "3910888729",
+        "name": "Khrisna Pagalan",
+        "email": "pagalankhrisna@gmail.com",
+        "phone": "098765432135",
+        "username": "khrisna",
+        "password": "123456789"
+    },
+    {
+        "id": "2758555129",
+        "name": "Khrisna O. Pagalan",
+        "email": "khrisnapagalan8@gmail.com",
+        "phone": "09753624316",
+        "username": "Khrisna29",
+        "password": "mylifemysay"
+    }
+]
